@@ -1,8 +1,13 @@
+# important 
+
+this app uses Tailwind via PostCSS plugin
+
+---
+
 This is a [Next.js](https://nextjs.org/) project bootstrapped interactively with:
 
 ```
 yarn create next-app
-
 ```
 Where the selection of the Typescript variant takes place in
 ```
